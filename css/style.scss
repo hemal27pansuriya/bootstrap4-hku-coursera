@@ -70,3 +70,14 @@ body{
     bottom: 0px;
     position: absolute;
 }
+.modal-header{
+    background-color: $background-dark;
+    color: floralwhite;
+    
+    .close{
+        color: floralwhite;
+    }
+}
+.modal-body{
+    background-color: $background-pale;
+}
